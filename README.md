@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
-<h3 align="center">A Fullstack developer from Israel &#127470;&#127475</h3>
+<h3 align="center">A Fullstack developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?nivb000" alt="nivb000" /> </p>
+![](https://komarev.com/ghpvc/?nivb000)
 
 
 <a target="_blank" align="center">
