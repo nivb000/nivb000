@@ -8,7 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working With React.js, Vue.js Angular, Node, Express and MongoDB
+- 🔭 I’m currently working with React.js, Vue.js Angular, Node, Express and MongoDB
 
 - ⬜  State management with Redux & VueX
 
@@ -36,7 +36,7 @@
 
 </p>
 
-### Recent Projects
+### Recent projects
 
 - [Airbna - a airbnb clone demo website](https://airbna.onrender.com/)
 - [Mr Bitcoin Angular](https://github.com/nivb000/mr-bitcoin-angular)
