@@ -10,7 +10,9 @@
 
 - 🔭 I’m currently Working With React.js, Vue.js Angular, Node, Express and MongoDB
 
-- 💬 Ask me about **Reactjs & Vue**
+- ⬜  State management with Redux & VueX
+
+- 💬 Ask me about **Reactjs , Vue , Angular , redux , Js**
 
 - 📫 Email **bniv000@gmail.com**
 
@@ -34,15 +36,11 @@
 
 </p>
 
-### Blogs posts
+### Recent Projects
 
-<!-- BLOG-POST-LIST:START -->
+- [Airbna - a airbnb clone demo website](https://airbna.onrender.com/)
+- [Mr Bitcoin Angular](https://github.com/nivb000/mr-bitcoin-angular)
+- [Mr Bitcoin Vue and VueX](https://github.com/nivb000/mr-bitcoin-vue)
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 Profile ReadMe Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
