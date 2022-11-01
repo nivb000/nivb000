@@ -12,7 +12,7 @@
 
 - ⬜  State management with Redux & VueX
 
-- 💬 Ask me about **Reactjs , Vue , Angular , redux , Js**
+- 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX and Js**
 
 - 📫 Email **bniv000@gmail.com**
 
