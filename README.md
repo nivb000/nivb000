@@ -39,6 +39,7 @@
 ### Recent projects
 
 - [Airbna - a airbnb clone demo website](https://airbna.onrender.com/)
+- [Spozam - Spotify clone with Shazam Core API](https://github.com/nivb000/spozam)
 - [Mr Bitcoin Angular](https://github.com/nivb000/mr-bitcoin-angular)
 - [Mr Bitcoin Vue and VueX](https://github.com/nivb000/mr-bitcoin-vue)
 
