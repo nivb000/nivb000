@@ -8,13 +8,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working with React.js, Vue.js Angular, Node, Express and MongoDB
-
 - 🔭 I’m currently working with <img src="https://skillicons.dev/icons?i=react,vuejs,angular,nodejs,express,mongodb,postgresql,scss,tailwindcss" />
 
-- ⬜  State management with Redux & VueX
+- ⬜  State management with <img src="https://skillicons.dev/icons?i=redux" />
 
-- 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX and Js**
+- 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX JS, TS, mongodb, node.js, express**
 
 - 📫 Email **bniv000@gmail.com**
 
