@@ -8,9 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working with <img src="https://skillicons.dev/icons?i=react,vuejs,angular,nodejs,express,mongodb,postgresql,scss,tailwindcss" />
-
-- ⬜  State management with <img src="https://skillicons.dev/icons?i=redux" />
+- 🔭 I’m currently working with <img src="https://skillicons.dev/icons?i=react,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss" />
 
 - 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX JS, TS, mongodb, node.js, express**
 
