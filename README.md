@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working with React.js, Vue.js Angular, Node, Express and MongoDB
 
+- 🔭 I’m currently working with <img src="https://skillicons.dev/icons?i=react,vuejs,angular,nodejs,express,mongodb,postgresql,scss,tailwindcss" />
+
 - ⬜  State management with Redux & VueX
 
 - 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX and Js**
