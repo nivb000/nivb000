@@ -12,7 +12,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,pinia,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript&perline=7" />
 
-- 💬 Ask me about **Reactjs, Vue, Angular, Redux, Pinia, JS, TS, mongodb, node.js, express, **
+- 💬 Ask me about **Reactjs, Vue, Angular, Redux, JS, TS, mongodb, node.js, express, **
 
 - 📫 Email **bniv000@gmail.com**
   
