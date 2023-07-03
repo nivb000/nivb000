@@ -12,9 +12,11 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript&perline=7" />
 
-- 💬 Ask me about **Reactjs, Vue, Angular, Redux, VueX JS, TS, mongodb, node.js, express**
+- 💬 Ask me about **Reactjs, Vue, Angular, Redux, Pinia, JS, TS, mongodb, node.js, express, **
 
 - 📫 Email **bniv000@gmail.com**
+  
+- 🖥️ Portfolio **nivb.netlify.app**
 
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/> -->
@@ -39,7 +41,6 @@
 - [Airbna - a airbnb clone website](https://github.com/nivb000/sprint4-frontend)
 - [Spozam - Spotify clone with Shazam Core API](https://github.com/nivb000/spozam)
 - [Mr Bitcoin Angular](https://github.com/nivb000/mr-bitcoin-angular)
-- [Mr Bitcoin Vue and VueX](https://github.com/nivb000/mr-bitcoin-vue)
 
 
 Profile ReadMe Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
