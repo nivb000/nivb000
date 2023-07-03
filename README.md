@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working with 
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,pinia,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript&perline=7" />
 
 - 💬 Ask me about **Reactjs, Vue, Angular, Redux, Pinia, JS, TS, mongodb, node.js, express, **
 
 - 📫 Email **bniv000@gmail.com**
   
-- 🖥️ Portfolio **nivb.netlify.app**
+- 🖥️ Portfolio **https://nivb.netlify.app**
 
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/> -->
