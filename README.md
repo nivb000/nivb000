@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with 
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,pinia,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript,python&perline=7" />
 
 - 💬 Ask me about **Reactjs, Vue, Angular, Redux, JS, TS, mongodb, node.js, express, **
 
