@@ -29,7 +29,7 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
+<h3>Most  Used :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nivb000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="nivb000" 
@@ -37,9 +37,10 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,dotnet,scss,tailwindcss,html,css,javascript,typescript,python&perline=6" />
 
+<h3>Statistical Data :</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivb000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="nivb000" /></p>
 
