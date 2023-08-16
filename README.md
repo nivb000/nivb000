@@ -6,9 +6,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and making personal projects.
+<h3>💎 Connect with me:</h3>
 
-- <p align="left">
+<p align="left">
 	<a href="mailto:bniv000@gmail.com" target="blank">
 		<img src="https://img.icons8.com/?id=CXYJjRfKlwI9&format=png" alt="email" /></a>
 	<a href="https://nivb.netlify.app" target="blank">
@@ -19,7 +19,7 @@
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="stack-overflow" /></a>
 </p>
 
-<h3>- 💎 Recent Projects</h3>
+<h3>💎 Recent Projects</h3>
 
 - [Airbna - a airbnb clone](https://github.com/nivb000/sprint4-frontend)
 - [Spozam - Spotify clone with Shazam API](https://github.com/nivb000/spozam)
