@@ -30,7 +30,7 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank">
 		<img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="niv booskila" /></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/9758104/niv">
+	<a target="_blank" href="https://stackoverflow.com/users/9758104/niv">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 </p>
 
