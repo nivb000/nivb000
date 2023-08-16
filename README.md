@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning Web Development and making personal projects.
 
-- 📫 **bniv000@gmail.com**
-
-- <a href="https://nivb.netlify.app" target="_blank">⚡ Portfolio</a>
-
 - <p align="left">
+	<a href="mailto:bniv000@gmail.com" target="blank">
+		<img src="https://img.icons8.com/?id=CXYJjRfKlwI9&format=png" alt="niv booskila" /></a>
+	<a href="https://nivb.netlify.app" target="blank">
+		<img src="https://img.icons8.com/doodle/program" alt="niv booskila" /></a>
 	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="niv booskila" /></a>
 	<a target="_blank" href="https://stackoverflow.com/users/9758104/niv">
