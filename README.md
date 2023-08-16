@@ -10,13 +10,13 @@
 
 - <p align="left">
 	<a href="mailto:bniv000@gmail.com" target="blank">
-		<img src="https://img.icons8.com/?id=CXYJjRfKlwI9&format=png" alt="niv booskila" /></a>
+		<img src="https://img.icons8.com/?id=CXYJjRfKlwI9&format=png" alt="email" /></a>
 	<a href="https://nivb.netlify.app" target="blank">
-		<img src="https://img.icons8.com/doodle/program" alt="niv booskila" /></a>
+		<img src="https://img.icons8.com/?id=ipBLdOAQ6sRn&format=png" alt="portfolio" /></a>
 	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="niv booskila" /></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="linkedin" /></a>
 	<a target="_blank" href="https://stackoverflow.com/users/9758104/niv">
-		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="stack-overflow" /></a>
 </p>
 
 <h3>- 💎 Recent Projects</h3>
