@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and making personal projects.
 
-- 📫 How to reach me **bniv000@gmail.com**
+- 📫 **bniv000@gmail.com**
 
 - <a href="https://nivb.netlify.app" target="_blank">⚡ Portfolio</a>
 
@@ -28,9 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank"><img align="center"
-	src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="niv booskila" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank">
+		<img align="center" src="https://img.icons8.com/color/linkedin" alt="niv booskila" height="30" width="40" /></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/9758104/niv">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 </p>
