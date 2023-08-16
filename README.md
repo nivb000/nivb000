@@ -37,7 +37,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript,python&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,dotnet,scss,tailwindcss,html,css,javascript,typescript,python&perline=6" />
 
 
 <br>
