@@ -3,12 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=nivb000&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nivb000" /> 
-  </p>
-
-<br>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
@@ -42,7 +36,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nivb000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="nivb000" 
