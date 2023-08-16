@@ -12,21 +12,18 @@
 
 - <a href="https://nivb.netlify.app" target="_blank">⚡ Portfolio</a>
 
-### Recent projects
-
-- [Airbna - a airbnb clone](https://github.com/nivb000/sprint4-frontend)
-- [Spozam - Spotify clone with Shazam API](https://github.com/nivb000/spozam)
-- [Mondey - Monday.com clone](https://mondey.up.railway.app/)
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- <p align="left">
 	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="niv booskila" /></a>
 	<a target="_blank" href="https://stackoverflow.com/users/9758104/niv">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 </p>
+
+<h3>- 💎 Recent Projects</h3>
+
+- [Airbna - a airbnb clone](https://github.com/nivb000/sprint4-frontend)
+- [Spozam - Spotify clone with Shazam API](https://github.com/nivb000/spozam)
+- [Mondey - Monday.com clone](https://mondey.up.railway.app/)
 
 <br>
 
