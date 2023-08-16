@@ -1,46 +1,62 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
-<h3 align="center">A Fullstack developer from Israel</h3>
+<h3 align="center">Full Stack Developer From Israel🌟.</h3>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=nivb000&label=Profile%20views&color=0e75b6&style=flat"
+    alt="nivb000" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
+- 🌱 I’m currently learning Web Development and making personal projects.
 
+- 📫 How to reach me **bniv000@gmail.com**
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working with 
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript,python&perline=7" />
-
-- 💬 Ask me about **Reactjs, Vue, Angular, Redux, JS, TS, mongodb, node.js, express, **
-
-- 📫 Email **bniv000@gmail.com**
-  
-- 🖥️ Portfolio **https://nivb.netlify.app**
-
-<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/> -->
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/niv-booskila-8095781ba/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nivb000">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/9758104/niv">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-      </div>
-
-</p>
+- <a href="https://nivb.netlify.app" target="_blank">⚡ Portfolio</a>
 
 ### Recent projects
 
-- [Airbna - a airbnb clone website](https://github.com/nivb000/sprint4-frontend)
-- [Spozam - Spotify clone with Shazam Core API](https://github.com/nivb000/spozam)
-- [Mr Bitcoin Angular](https://github.com/nivb000/mr-bitcoin-angular)
+- [Airbna - a airbnb clone](https://github.com/nivb000/sprint4-frontend)
+- [Spozam - Spotify clone with Shazam API](https://github.com/nivb000/spozam)
+- [Mondey - Monday.com clone](https://mondey.up.railway.app/)
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://www.linkedin.com/in/niv-booskila-8095781ba/" target="blank"><img align="center"
+	src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="niv booskila" height="30" width="40" /></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/9758104/niv">
+		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,angular,redux,nodejs,express,mongodb,postgresql,scss,tailwindcss,html,css,javascript,typescript,python&perline=7" />
 
 
-Profile ReadMe Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nivb000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="nivb000" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivb000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="nivb000" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+
+Profile ReadMe Credit: [Adam-pw](https://github.com/Adam-pw)
