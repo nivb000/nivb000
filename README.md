@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
 <h3 align="center">Full Stack Developer From Israel🌟.</h3>
+<h3 align="center">Looking for entry position🌟.</h3>
 
 <br>
 
