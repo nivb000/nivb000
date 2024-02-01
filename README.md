@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niv</h1>
 <h3 align="center">Full Stack Developer From Israel🌟.</h3>
-<h3 align="center">Looking for entry position🌟.</h3>
 
 <br>
 
@@ -24,7 +23,7 @@
 
 - [Airbna - a airbnb clone](https://github.com/nivb000/sprint4-frontend)
 - [Spozam - Spotify clone with Shazam API](https://github.com/nivb000/spozam)
-- [Mondey - Monday.com clone](https://mondey.up.railway.app/)
+- [Mondey - Monday.com clone](https://github.com/nivb000/mondey-frontend)
 
 
 
